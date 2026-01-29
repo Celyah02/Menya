@@ -1,50 +1,102 @@
-# Welcome to your Expo app 👋
+Menya 📱⚖️
+AI-Driven Legal Awareness & Reporting Platform
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Menya is an AI-powered mobile application designed to empower citizens with legal knowledge by helping them understand laws, know their rights, and take action.
+The platform combines an intelligent chatbot for legal guidance with a secure reporting system that allows users to report cases of abuse, violence, or denied public services.
 
-## Get started
+Our goal is to bridge the gap between citizens and legal information by making laws accessible, understandable, and actionable for everyone.
 
-1. Install dependencies
+🌍 Key Features
 
-   ```bash
-   npm install
-   ```
+🤖 AI Legal Assistant
+An intelligent chatbot that explains laws, rights, and regulations in a simple, user-friendly manner.
 
-2. Start the app
+📢 Rights Violation Reporting
+Enables users to securely report cases of violence, abuse, or denied services.
 
-   ```bash
-   npx expo start
-   ```
+📚 Legal Awareness & Education
+Promotes civic education by simplifying complex legal concepts.
 
-In the output, you'll find options to open the app in a
+🔐 User-Focused & Confidential
+Designed with privacy, security, and accessibility in mind.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+🛠️ Tech Stack
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Mobile Framework: Expo (React Native)
 
-## Get a fresh project
+Language: JavaScript / TypeScript
 
-When you're ready, run:
+Routing: File-based routing (Expo Router)
 
-```bash
+AI Integration: AI-powered chatbot (LLM-based)
+
+🚀 Getting Started
+Prerequisites
+
+Make sure you have the following installed:
+
+Node.js
+
+npm or yarn
+
+Expo CLI (optional but recommended)
+
+Installation
+
+Install project dependencies:
+
+npm install
+
+
+Start the development server:
+
+npx expo start
+
+Running the App
+
+Once started, you can open the app using:
+
+📱 Expo Go (scan QR code)
+
+🤖 Android Emulator
+
+🍎 iOS Simulator
+
+🧪 Development Build
+
+📁 Project Structure
+
+You can start developing by editing files inside the app/ directory.
+This project uses file-based routing, making navigation clean and scalable.
+
+♻️ Resetting the Project (Optional)
+
+If you want a fresh start:
+
 npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+This will:
 
-To learn more about developing your project with Expo, look at the following resources:
+Move the starter code to app-example/
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Create a new blank app/ directory
 
-## Join the community
+📖 Learn More
 
-Join our community of developers creating universal apps.
+Expo Documentation
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Expo Router Guide
+
+Expo Tutorials
+
+🤝 Contributing
+
+Contributions, ideas, and improvements are welcome.
+Feel free to fork the repository and submit a pull request.
+
+📜 License
+
+This project is open-source and intended for educational, civic, and social impact purposes.
+
+✨ Menya — Know Your Rights. Understand the Law. Speak Up.
