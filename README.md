@@ -75,13 +75,6 @@ If you want a fresh start:
 
 npm run reset-project
 
-📖 Learn More
-
-Expo Documentation
-
-Expo Router Guide
-
-Expo Tutorials
 
 🤝 Contributing
 
