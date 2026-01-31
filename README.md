@@ -75,13 +75,6 @@ If you want a fresh start:
 
 npm run reset-project
 
-
-This will:
-
-Move the starter code to app-example/
-
-Create a new blank app/ directory
-
 📖 Learn More
 
 Expo Documentation
