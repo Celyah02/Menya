@@ -81,8 +81,4 @@ npm run reset-project
 Contributions, ideas, and improvements are welcome.
 Feel free to fork the repository and submit a pull request.
 
-📜 License
-
-This project is open-source and intended for educational, civic, and social impact purposes.
-
 ✨ Menya — Know Your Rights. Understand the Law. Speak Up.
